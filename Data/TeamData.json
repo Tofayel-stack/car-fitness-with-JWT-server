@@ -1,0 +1,30 @@
+[
+    {
+        "id":"01",
+        "name":"Stifen cookers",
+        "designation":"machine enginer",
+        "photo":"https://www.shutterstock.com/image-photo/young-happy-technician-mechanic-man-260nw-2038431749.jpg",
+        "descrip":"special about car engine"
+    },
+    {
+        "id":"02",
+        "name":"will smith",
+        "designation":"machine enginer",
+        "photo":"https://www.shutterstock.com/image-photo/portrait-asian-handsome-automotive-mechanic-260nw-2138052645.jpg",
+        "descrip":"special about engine modified"
+    },
+    {
+        "id":"03",
+        "name":"jon siller",
+        "designation":"painter",
+        "photo":"https://st2.depositphotos.com/1158045/6205/i/600/depositphotos_62052293-stock-photo-industrial-worker-on-factory.jpg",
+        "descrip":"special about car painting"
+    },
+    {
+        "id":"04",
+        "name":"james khamirun",
+        "designation":"battery engineer",
+        "photo":"https://www.shutterstock.com/image-photo/engineerindustry-construction-concept-portrait-caucasian-260nw-1794889423.jpg",
+        "descrip":"special about car electricity"
+    }
+]
